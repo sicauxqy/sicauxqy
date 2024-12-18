@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sicauxqy
-- 👀 I’m interested in phytophysiology of Chinese medicinal plants
-- 🌱 I’m currently learning how to make plots with R
-- 💞️ I’m looking to collaborate on anything i can do
+- 🌱  I’m interested in seedbiology of parasitic plants
 - 📫 How to reach me B20213010057@cau.edu.cn
 
 <!---
